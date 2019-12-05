@@ -1,6 +1,3 @@
-[submodule "JOIN - CODE"]
-	path = JOIN - CODE
-	url = https://gitlab.com/klougod/join-app.git
 [submodule "JOIN - API"]
 	path = JOIN - API
 	url = https://github.com/IgnacioPinedo/JoinApi.git
