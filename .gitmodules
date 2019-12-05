@@ -7,6 +7,3 @@
 [submodule "JOIN - DIAGRAMS"]
 	path = JOIN - DIAGRAMS
 	url = https://github.com/IgnacioPinedo/TCC-2019-Casos-de-Uso.git
-[submodule "JOIN - APP"]
-	path = JOIN - APP
-	url = https://gitlab.com/klougod/join-app.git
